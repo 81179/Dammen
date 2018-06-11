@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dammen", "Assembly-CSharp-firstpass.csproj", "{497C6A2B-F2AC-0F70-E3BD-D5B5FEF6254C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dammen", "Assembly-CSharp.csproj", "{E951D71E-5308-1FD9-01E7-D1BC5BF4AA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497C6A2B-F2AC-0F70-E3BD-D5B5FEF6254C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497C6A2B-F2AC-0F70-E3BD-D5B5FEF6254C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497C6A2B-F2AC-0F70-E3BD-D5B5FEF6254C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497C6A2B-F2AC-0F70-E3BD-D5B5FEF6254C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E951D71E-5308-1FD9-01E7-D1BC5BF4AA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E951D71E-5308-1FD9-01E7-D1BC5BF4AA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E951D71E-5308-1FD9-01E7-D1BC5BF4AA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E951D71E-5308-1FD9-01E7-D1BC5BF4AA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
